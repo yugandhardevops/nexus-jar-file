@@ -48,7 +48,7 @@ http://15.207.20.184:8081/repository/package/
 </url>
 </repository>
 <snapshotRepository>	
-<id>snapshots</id>
+<id>snapshot</id>
 <url>
 http://15.207.20.184:8081/repository/snapshot/
 </url>
