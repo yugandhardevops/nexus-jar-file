@@ -44,13 +44,13 @@
 <repository>
 <id>package</id>
 <url>
-http://3.7.65.25:8081/repository/package/
+http://15.207.71.184:8081/repository/package/
 </url>
 </repository>
 <snapshotRepository>	
 <id>snapshot</id>
 <url>
-http://3.7.65.25:8081/repository/snapshot/
+http://15.207.71.184:8081/repository/snapshot/
 </url>
 </snapshotRepository>
 </distributionManagement>
